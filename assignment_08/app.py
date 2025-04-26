@@ -36,7 +36,7 @@ class Teacher(Person):
         return f"{base_intro} and I teach {self.subject}"
 
 
-# Testing the classes
+
 if __name__ == "__main__":
     # Create a Person object
     print("Creating a Person:")
